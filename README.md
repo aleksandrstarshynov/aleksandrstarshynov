@@ -1,12 +1,9 @@
 # 👋 Hi, I’m Oleksandr
-**I am a former Senior Delivery Manager from Ukraine, with permission to work in the Netherlands.**
 
-- Former Senior Delivery Manager** from Ukraine, authorized to work in the Netherlands  
-- Full-stack web developer** obsessed with crafting business logic, user flows & UX, with a strong backend focus  
-- Tech stack:** JavaScript, Python, React, Node.js + Express, MongoDB, PostgreSQL, Qdrant, MySQL, Git, AWS  
-- Passions:** coding & automation, cutting-edge technologies & AI; outside tech — history, classical painting, classical music & family  
-
----
+- Full-stack web developer obsessed with crafting business logic, user flows & UX, with a strong backend focus.  
+- Former Senior Delivery Manager from Ukraine, authorized to work in the Netherlands.
+- Tech stack:JavaScript, Python, React, Node.js + Express, MongoDB, PostgreSQL, Qdrant, MySQL, Git, AWS.  
+- Passions:Coding & automation, cutting-edge technologies & AI; outside tech — history, classical painting, classical music & family.  
 
 ## Technologies
 
@@ -21,15 +18,14 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-black?style=flat&logo=amazonec2&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-process%20manager-2EC866?style=flat&logo=pm2) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoCol
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
----
 
 ## 🚀 My Projects
 - [**QuickShop**](https://github.com/your-username/quickshop) – Online art store with semantic vector search powered by Qdrant embeddings.
 - Hoeweer... 
 
----
+
 
 ## Currently Learning  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
