@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Oleksandr
 **I am a former Senior Delivery Manager from Ukraine, with permission to work in the Netherlands.**
 
-- **Former Senior Delivery Manager** from Ukraine, authorized to work in the Netherlands  
-- **Full-stack web developer** obsessed with crafting business logic, user flows & UX, with a strong backend focus  
-- **Tech stack:** JavaScript, Python, React, Node.js + Express, MongoDB, PostgreSQL, Qdrant, MySQL, Git, AWS  
-- **Passions:** coding & automation, cutting-edge technologies & AI; outside tech — history, classical painting, classical music & family  
+- Former Senior Delivery Manager** from Ukraine, authorized to work in the Netherlands  
+- Full-stack web developer** obsessed with crafting business logic, user flows & UX, with a strong backend focus  
+- Tech stack:** JavaScript, Python, React, Node.js + Express, MongoDB, PostgreSQL, Qdrant, MySQL, Git, AWS  
+- Passions:** coding & automation, cutting-edge technologies & AI; outside tech — history, classical painting, classical music & family  
 
 ---
 
@@ -19,7 +19,7 @@
 
 **Deployment**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-black?style=flat&logo=amazonec2)  
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-black?style=flat&logo=amazonec2&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-process%20manager-2EC866?style=flat&logo=pm2) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoCol
 
@@ -41,5 +41,5 @@
 
 ## 📫 How to reach me
 - **Email**: aleksandrstarshynov@gmail.com  
-- **LinkedIn**: [oleksandr-starshinov](https://www.linkedin.com/in/oleksandr-starshynov-5a13ab58/)  
-- **CV**: [@starshynov](https://docs.google.com/document/d/1qDswHOCIHF0y2EeAkRdPvNXQNGUGixCk/edit?usp=sharing&ouid=100487193319599038543&rtpof=true&sd=true)  
+- **LinkedIn**: (https://www.linkedin.com/in/oleksandr-starshynov-5a13ab58/)  
+- **CV**: [Google Drive, docx](https://docs.google.com/document/d/1qDswHOCIHF0y2EeAkRdPvNXQNGUGixCk/edit?usp=sharing&ouid=100487193319599038543&rtpof=true&sd=true)  
