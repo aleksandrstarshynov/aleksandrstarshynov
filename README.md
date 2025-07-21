@@ -27,9 +27,9 @@
 ## 🚀 My Projects
 Below are the projects as I learn and increase in complexity, allowing me to follow my progression through April 2025.<br>
 
-- [**Hoeweer**] ([https://github.com/aleksandrstarshynov/hoeweer_client/]) - application for analyzing the quality of temperature weather forecast based on three independent sources with subsequent derivation of more predictable temperature
-- [**QuickShop**]([https://github.com/aleksandrstarshynov/QuickShop]) – Online art store with semantic vector search powered by Qdrant embeddings.
-- [**Linker**] ([https://github.com/aleksandrstarshynov/linker]) - AI-based assistant for finding connections between information, duplicates, manual improvement of information quality<br><br>
+- [**Hoeweer**](https://github.com/aleksandrstarshynov/hoeweer_client/) - application for analyzing the quality of temperature weather forecast based on three independent sources with subsequent derivation of more predictable temperature
+- [**QuickShop**](https://github.com/aleksandrstarshynov/QuickShop) – Online art store with semantic vector search powered by Qdrant embeddings.
+- [**Linker**](https://github.com/aleksandrstarshynov/linker) - AI-based assistant for finding connections between information, duplicates, manual improvement of information quality<br><br>
 
 
 ## Currently Learning  
