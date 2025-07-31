@@ -2,8 +2,8 @@
 
 - Full-stack web developer obsessed with crafting business logic, user flows & UX, with a strong backend focus.  
 - Former Senior Delivery Manager from Ukraine, authorized to work in the Netherlands.
-- Tech stack:JavaScript, Python, React, Node.js + Express, MongoDB, PostgreSQL, Qdrant, MySQL, Git, AWS.  
-- Passions:Coding & automation, cutting-edge technologies & AI; outside tech — history, classical painting, classical music & family.<br>
+- Tech stack: JavaScript, Python, React, Node.js + Express, MongoDB, PostgreSQL, Qdrant, MySQL, Git, AWS.  
+- Passions: Coding & automation, cutting-edge technologies & AI; outside tech — history, classical painting, classical music & family.<br>
 
 ---
 
