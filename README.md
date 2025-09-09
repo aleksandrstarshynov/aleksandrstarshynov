@@ -41,6 +41,6 @@ Below are the projects as I learn and increase in complexity, allowing me to fol
 ---
 
 ## 📫 How to reach me
-- **Email**: aleksandrstarshynov@gmail.com  
+- **Email**: oleksandrstarshynov@gmail.com  
 - **LinkedIn**: (https://www.linkedin.com/in/oleksandr-starshynov-5a13ab58/)  
 - **CV**: [Google Drive, docx](https://docs.google.com/document/d/1qDswHOCIHF0y2EeAkRdPvNXQNGUGixCk/edit?usp=sharing&ouid=100487193319599038543&rtpof=true&sd=true)  
